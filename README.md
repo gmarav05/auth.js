@@ -1,7 +1,7 @@
 # 🔐 Authentication App
 A clean, full-stack authentication application built with Next.js 16 and Better Auth. Sign in with Google or GitHub using OAuth — powered by Prisma, PostgreSQL, and a modern session-based architecture for a secure, seamless experience.
 
-> Visit Auth App
+> Visit [Auth App](https://better-auth-gmarav05.vercel.app/login)
 
 `Next.js` `React` `Better Auth` `Prisma` `PostgreSQL` `Shadcn UI` `Tailwind CSS`
 
@@ -12,6 +12,24 @@ A clean, full-stack authentication application built with Next.js 16 and Better 
 Authentication App is a production-ready auth boilerplate that demonstrates a modern **Better Auth + Prisma + Next.js App Router** architecture. Users can sign in with Google or GitHub, and are redirected based on their session state — all with server-side session validation and clean client-side state management.
 
 A natural starting point for any full-stack project that needs reliable, extensible authentication out of the box.
+
+--
+
+
+## Live Demo
+
+
+
+
+
+## Screenshot 
+
+<div style="display: flex; justify-content: center; gap: 20px;"> <img src="main.png" alt="Todo App Screenshot 1" width="400"/> 
+</div>
+
+
+
+
 
 ---
 
