@@ -13,7 +13,7 @@ Authentication App is a production-ready auth boilerplate that demonstrates a mo
 
 A natural starting point for any full-stack project that needs reliable, extensible authentication out of the box.
 
---
+---
 
 
 ## Live Demo
@@ -21,10 +21,14 @@ A natural starting point for any full-stack project that needs reliable, extensi
 
 
 
+https://github.com/user-attachments/assets/5cc6279c-3c4b-4fd6-a1a7-636f52b89aca
+
+
+
 
 ## Screenshot 
 
-<div style="display: flex; justify-content: center; gap: 20px;"> <img src="main.png" alt="Todo App Screenshot 1" width="400"/> 
+<div style="display: flex; justify-content: center; gap: 20px;"> <img src="main.png" alt="Todo App Screenshot 1" width="600"/> 
 </div>
 
 
